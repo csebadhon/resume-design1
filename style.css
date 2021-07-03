@@ -1,0 +1,181 @@
+body {
+  margin: 0;
+}
+/* header */
+.container {
+  width: 90%;
+  margin: auto;
+}
+header {
+  background-color: #0B0B0B;
+  margin: 0;
+}
+.header-title {
+  padding: 2px;
+  background: #fff;
+  width: 124px;
+  margin-bottom: 90px;
+}
+.header-title h4 {
+  color: #242021;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: Calibri;
+  font-size: 26px;
+  margin: 0;
+  padding: 5px;
+}
+.name {
+  text-align: right;
+  font-size: 80px;
+  text-transform: uppercase;
+  font-family: Calibri;
+  font-weight: 500;
+  padding-bottom: 16px;
+  color: #FFFFFF;
+  margin: 0;
+
+}
+/* Left Section */
+.left-section {
+  width: 35%;
+  background: #BFB8B8 ;
+  overflow: hidden;
+  float: left;
+}
+.profile-pic {
+  position: absolute;
+  top: 100px;
+  height: 300px;
+  width: 300px;
+  overflow: hidden;
+  border-radius: 50%;
+  border: 6px solid black;
+  margin-left: 80px;
+}
+.left-content {
+  margin-left: 40px;
+}
+.contact {
+  margin-top: 215px;
+}
+.address {
+  margin-top: 26px;
+}
+.contact-box {
+  width: 250px;
+  margin: auto;
+  border: 4px solid black;
+}
+.contact-box h3 {
+  font-size: 45px;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0;
+  font-family: Calibri;
+  font-weight: 400;
+}
+.icon {
+  width: 85px;
+  overflow: hidden;
+  float: left;
+  height: 66px;
+  margin-top: 20px;
+}
+.phone .icon {
+  margin: 10px 0;
+}
+.icon i {
+  font-size: 70px;
+}
+.icon .fa-envelope {
+  font-size: 60px;
+}
+.left-section .text p {
+  width: 284px;
+  float: left;
+  margin-top: 20px;
+  font-size: 27px;
+}
+.left-section .text a {
+  width: 284px;
+  float: left;
+  margin-top: 20px;
+  font-size: 27px;
+  text-decoration: none;
+  color: #242021;
+  font-family: Calibri;
+}
+.left-section .text a:hover {
+  color: #ffffff;
+}
+.email {
+  clear: both;
+}
+.email .text {
+  width: 284px;
+  float: left;
+  height: 66px;
+  margin-top: 20px;
+}
+.fb-link .text a {
+  margin: 37px 0 50px 0;
+}
+.skills {
+  clear: both;
+}
+.skills .content-text,
+.hobbies .content-text{
+  margin: 22px 0 40px 0;
+}
+.content-text p {
+  font-size: 30px;
+  margin: 4px 0px;
+  font-family: Calibri;
+  font-weight: 200;
+}
+/* Right Section */
+.right-section {
+  width: 65%;
+  background: #ffffff;
+  overflow: hidden;
+}
+.right-content {
+  margin-left: 30px;
+  margin-bottom: 19px;
+}
+h3 {
+  font-size: 45px;
+  text-transform: uppercase;
+  margin: 10px 0 0 0;
+  font-family: Calibri;
+  font-weight: 400;
+}
+.right-content h5 {
+  font-size: 30px;
+  margin: 22px 0 0 0;
+  font-weight: bold;
+  font-family: Calibri;
+}
+.right-content p {
+  font-size: 25px;
+  margin: 4px 0px;
+  font-family: Calibri;
+  font-weight: 200;
+}
+.hr-dash hr {
+  height: 2px;
+  width: 490px;
+  background: black;
+  margin: -25px 0 0 240px;
+}
+.extra hr {
+  width: 350px;
+  margin-left: 379px;
+}
+/* Footer */
+footer{
+  width: 100%;
+  height: 20px;
+  background-color: #0B0B0B;
+}
